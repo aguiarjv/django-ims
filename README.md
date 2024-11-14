@@ -73,8 +73,13 @@ This project was developed using Django and it is designed to work as an invento
       
 ## Screenshots
 
-### Login Page
+### Login Page (pt-BR)
 ![Login Page](/screenshots/login-screen.png?raw=true "Login Page")
 
+### Dashboard (pt-BR)
+![Dashboard](/screenshots/main-dashboard.png?raw=true "Dashboard")
+
+### Register Product Page (pt-BR)
+![Register Product](/screenshots/register-product.png?raw=true "Register Product")
 
 
